@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders GithubCard snapshot 1`] = `
+<div>
+  <div
+    className="card"
+    style={
+      Object {
+        "margin": "auto",
+        "width": "400px",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://avatars.githubusercontent.com/u/147564905?s=400&u=4bd21078a4e3e930415da3b001dd4c1127e03e90&v=4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+        style={
+          Object {
+            "fontWeight": "bold",
+          }
+        }
+      >
+        GitHub name: CoderKaiHan
+      </div>
+      <p
+        className="card-text"
+      >
+        <p>
+          Lorem ipsum odor amet, consectetuer adipiscing elit. Bibendum risus congue scelerisque, nullam odio quis rhoncus libero molestie. Adapibus mi convallis dictum leo; pulvinar tortor. Sit felis nisi litora tellus, lacus nulla imperdiet? Dui fusce imperdiet vitae enim a curae ornare. Ad sagittis blandit mattis pulvinar sed. Nibh pharetra volutpat quis ultrices metus volutpat lectus accumsan.
+        </p>
+      </p>
+      <a
+        className="card-link"
+        href="https://github.com/CoderKaiHan"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          type="button"
+        >
+          Go to GitHub
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;
